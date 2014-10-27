@@ -1,0 +1,16 @@
+Este é um componente FREEWARE, de uso livre, sem restrições de uso.
+
+Sua utilização fica por conta e risco de quem o utilizar, podendo ser modificado e aperfeiçoado à
+vontade, pois é um simples exemplo de uso da biblioteca Wininet do Windows para download de arquivos
+com suporte à resumo de download através do protocolo http, mais rápido que o protocolo ftp (pelo 
+menos nos testes que fiz).
+
+Sou grato à comunidade Delphi de todo o mundo, e às pessoas que compartilham seus conhecimentos, seja
+com simples artigos ou exemplos de códigos, pois já fui tantas vezes "salvo" pelas pesquisas na web,
+com o objetivo de aprender mais dessa maravilhosa linguagem chamada Object Pascal.
+
+Esta é uma pequena contribuição à comunidade livre, pois já fui tantas vezes auxiliado por ela 
+também.
+
+Atenciosamente,
+Maurício.
